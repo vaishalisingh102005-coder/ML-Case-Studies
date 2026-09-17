@@ -81,6 +81,6 @@ ML-Case-Studies/
 │
 ├── CASESTUDY1MLE
 │
-├── credit_card_fraud.ipynb
+├── CASESTUDYMLE2
 │
 └── README.md
